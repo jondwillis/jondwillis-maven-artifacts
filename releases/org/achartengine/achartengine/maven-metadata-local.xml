@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.achartengine</groupId>
+  <artifactId>achartengine</artifactId>
+  <versioning>
+    <release>0.7.0-electricsleep</release>
+    <versions>
+      <version>0.7.0-electricsleep</version>
+    </versions>
+    <lastUpdated>20120126234229</lastUpdated>
+  </versioning>
+</metadata>

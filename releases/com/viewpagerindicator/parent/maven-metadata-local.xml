@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.viewpagerindicator</groupId>
+  <artifactId>parent</artifactId>
+  <versioning>
+    <release>2.0.0-electricsleep</release>
+    <versions>
+      <version>2.0.0-electricsleep</version>
+    </versions>
+    <lastUpdated>20120126235542</lastUpdated>
+  </versioning>
+</metadata>
