@@ -3,10 +3,10 @@
   <groupId>org.achartengine</groupId>
   <artifactId>achartengine</artifactId>
   <versioning>
-    <release>0.7.0-electricsleep</release>
+    <release>0.8.0-electricsleep</release>
     <versions>
-      <version>0.7.0-electricsleep</version>
+      <version>0.8.0-electricsleep</version>
     </versions>
-    <lastUpdated>20120126234229</lastUpdated>
+    <lastUpdated>20120313153526</lastUpdated>
   </versioning>
 </metadata>
