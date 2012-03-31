@@ -1,8 +1,11 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 26 17:59:30 EST 2012
-http\://repo.maven.apache.org/maven2/.lastUpdated=1327618770158
-http\://r.jakewharton.com/maven/release/.lastUpdated=1327618769961
-http\://repo1.maven.org/maven2/.error=
-http\://repo1.maven.org/maven2/.lastUpdated=1327379306104
-http\://repo.maven.apache.org/maven2/.error=
+#Fri Jan 27 14:22:36 EST 2012
 http\://r.jakewharton.com/maven/release/.error=
+https\://github.com/jondwillis/jondwillis-maven-artifacts/raw/master/.error=
+https\://github.com/jondwillis/jondwillis-maven-artifacts/raw/master/.lastUpdated=1327689373690
+https\://github.com/jondwillis/jondwillis-maven-artifacts/raw/master/releases/.lastUpdated=1327689432350
+https\://raw.github.com/jondwillis/jondwillis-maven-artifacts/master/releases/.error=
+https\://raw.github.com/jondwillis/jondwillis-maven-artifacts/master/releases/.lastUpdated=1327688312468
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1327692156808
+http\://r.jakewharton.com/maven/release/.lastUpdated=1327692156688
