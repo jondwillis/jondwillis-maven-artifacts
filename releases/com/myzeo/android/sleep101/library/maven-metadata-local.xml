@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.myzeo.android.sleep101</groupId>
+  <artifactId>library</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120424182849</lastUpdated>
+  </versioning>
+</metadata>
